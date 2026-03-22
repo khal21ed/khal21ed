@@ -5,7 +5,8 @@
 
 ## About Me
 
-* Currently focused on learning **web development (frontend & backend)**
+* Currently focused on learning **Core Web development technologies (frontend & backend)**
+* Aiming to specialize in React/Next.js on the frontend and ASP.NET on the backend.
 * Solid foundation in data structures, algorithms, and **writing clean, maintainable code**
 
 
